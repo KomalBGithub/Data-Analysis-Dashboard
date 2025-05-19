@@ -19,6 +19,8 @@ Likely dashboards include:
 •	📉 Absenteeism Heatmap
 •  Dashboard Interaction <a href="https://github.com/KomalBGithub/Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard%20.png">View Dashboard</a>
 
+## Dashboard
+![HR Analysis Dashboard ](https://github.com/user-attachments/assets/8486de08-a1ea-43a3-9034-4d5c6c65f582)
 
 
 
