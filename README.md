@@ -4,3 +4,30 @@ The primary goal of this project is to analyze employee attendance behavior acro
 
 ## Dataset Used 
 <a href="https://github.com/KomalBGithub/Data-Analysis-Dashboard/blob/main/Attendance%20Sheet%202022-2023_Masked.xlsx">Dataset</a>
+
+## Process 
+1. Data Collection
+2. Attendance Key Mapping
+3. Data Cleaning
+4. Data Aggregation
+5. Data Visualization (in Power BI)
+Likely dashboards include:
+•	📊 Monthly Attendance Summary (Present vs. Leave vs. WFH)
+•	👤 Employee-wise Attendance Patterns
+•	🗓️ Leave Trend by Type and Month
+•	🏆 Top 5 Employees with Highest/Lowest Attendance
+•	📉 Absenteeism Heatmap
+•  Dashboard Interaction <a >
+
+
+
+
+
+
+
+
+
+
+
+
+
