@@ -17,7 +17,9 @@ Likely dashboards include:
 •	🗓️ Leave Trend by Type and Month
 •	🏆 Top 5 Employees with Highest/Lowest Attendance
 •	📉 Absenteeism Heatmap
-•  Dashboard Interaction <a >
+•  Dashboard Interaction <a href="https://github.com/KomalBGithub/Data-Analysis-Dashboard/blob/main/HR%20Analysis%20Dashboard%20.png">View Dashboard</a>
+
+
 
 
 
